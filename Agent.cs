@@ -22,7 +22,6 @@ class Agent
         if (decision == "rag")
             return rag.Search(input);
 
-        // Few-shot prompting
         var prompt = $@"
 You are a helpful assistant.
 fo

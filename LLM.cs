@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 class LLM
 {
-    private string apiKey = "yourGemini Key";
+    private string apiKey = "yourGemini APIKey";
 
     public async Task<string> Ask(string input)
     {

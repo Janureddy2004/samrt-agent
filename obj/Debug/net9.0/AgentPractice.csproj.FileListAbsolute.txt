@@ -38,3 +38,44 @@
 /Users/janureddy/MAF Practice/AgentPractice/obj/Debug/net9.0/AgentPractice.pdb
 /Users/janureddy/MAF Practice/AgentPractice/obj/Debug/net9.0/AgentPractice.genruntimeconfig.cache
 /Users/janureddy/MAF Practice/AgentPractice/obj/Debug/net9.0/ref/AgentPractice.dll
+/Users/janureddy/MAF Practice/Smart Agent/obj/Debug/net9.0/AgentPractice.csproj.AssemblyReference.cache
+/Users/janureddy/MAF Practice/Smart Agent/obj/Debug/net9.0/AgentPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janureddy/MAF Practice/Smart Agent/obj/Debug/net9.0/AgentPractice.AssemblyInfoInputs.cache
+/Users/janureddy/MAF Practice/Smart Agent/obj/Debug/net9.0/AgentPractice.AssemblyInfo.cs
+/Users/janureddy/MAF Practice/Smart Agent/obj/Debug/net9.0/AgentPractice.csproj.CoreCompileInputs.cache
+/Users/janureddy/MAF Practice/Smart Agent/obj/Debug/net9.0/AgentPractice.sourcelink.json
+/Users/janureddy/MAF Practice/Smart Agent/obj/Debug/net9.0/AgentPractice.dll
+/Users/janureddy/MAF Practice/Smart Agent/obj/Debug/net9.0/refint/AgentPractice.dll
+/Users/janureddy/MAF Practice/Smart Agent/obj/Debug/net9.0/AgentPractice.pdb
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/AgentPractice
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/AgentPractice.deps.json
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/AgentPractice.runtimeconfig.json
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/AgentPractice.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/AgentPractice.pdb
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Azure.Core.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Azure.Identity.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/System.ClientModel.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/System.Diagnostics.DiagnosticSource.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/System.IO.Pipelines.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/System.Text.Encodings.Web.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/System.Text.Json.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/janureddy/MAF Practice/Smart Agent/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Text.Encodings.Web.dll
+/Users/janureddy/MAF Practice/Smart Agent/obj/Debug/net9.0/AgentPra.2938F8F9.Up2Date
+/Users/janureddy/MAF Practice/Smart Agent/obj/Debug/net9.0/AgentPractice.genruntimeconfig.cache
+/Users/janureddy/MAF Practice/Smart Agent/obj/Debug/net9.0/ref/AgentPractice.dll

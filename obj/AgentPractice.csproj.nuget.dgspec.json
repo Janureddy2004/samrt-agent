@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/janureddy/MAF Practice/AgentPractice/AgentPractice.csproj": {}
+    "/Users/janureddy/MAF Practice/Smart Agent/AgentPractice.csproj": {}
   },
   "projects": {
-    "/Users/janureddy/MAF Practice/AgentPractice/AgentPractice.csproj": {
+    "/Users/janureddy/MAF Practice/Smart Agent/AgentPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/janureddy/MAF Practice/AgentPractice/AgentPractice.csproj",
+        "projectUniqueName": "/Users/janureddy/MAF Practice/Smart Agent/AgentPractice.csproj",
         "projectName": "AgentPractice",
-        "projectPath": "/Users/janureddy/MAF Practice/AgentPractice/AgentPractice.csproj",
+        "projectPath": "/Users/janureddy/MAF Practice/Smart Agent/AgentPractice.csproj",
         "packagesPath": "/Users/janureddy/.nuget/packages/",
-        "outputPath": "/Users/janureddy/MAF Practice/AgentPractice/obj/",
+        "outputPath": "/Users/janureddy/MAF Practice/Smart Agent/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/janureddy/.nuget/NuGet/NuGet.Config"

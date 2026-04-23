@@ -40,13 +40,13 @@ class LLM
 
         var json = JsonDocument.Parse(responseString);
 
-// Check if error exists
+
 if (json.RootElement.TryGetProperty("error", out var error))
 {
     return "LLM Error: " + error.ToString();
 }
 
-// Check if candidates exist
+
 if (json.RootElement.TryGetProperty("candidates", out var candidates))
 {
     var text = candidates[0]
